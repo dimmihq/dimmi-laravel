@@ -13,7 +13,7 @@
     "homepage": "https://github.com/dimmihq/dimmi/tree/main/sdk/laravel",
     "require": {
         "php": ">=8.2",
-        "dimmi/dimmi-php": "^0.1",
+        "dimmi/dimmi-php": "^0.2",
         "illuminate/console": "^10.0|^11.0|^12.0",
         "illuminate/contracts": "^10.0|^11.0|^12.0",
         "illuminate/http": "^10.0|^11.0|^12.0",
